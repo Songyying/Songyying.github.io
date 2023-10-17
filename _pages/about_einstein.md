@@ -1,5 +1,3 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am Song Yuying from Nan Jing University , majoring in Journalism and Communication. I consider myself as a hard-working and determined person with a strong sense of responsibility . I graduated from Jilin University. 
+During the past 4 years , I have been devoted to my studies. As a result , my academic records kept distinguished among all the classmates . I was once granted national scholarship . Moreover , as the project leader ,I host a National College Student Innovation Training Program.What’s more, I also took part in some competitions, such as the national advertising art design competition. Through which I bonded knowledge with application. 
+This September, I came to Nanjing University, it's a challenging journey for me, but I'm sure I will enjoy it.
