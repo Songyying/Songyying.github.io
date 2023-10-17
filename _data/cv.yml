@@ -14,26 +14,12 @@
     - title: Bachelor of Arts
       institution: Ji Lin University
       year: 2019
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
 
 - title: Experience
   type: time_table
   contents:
       institution: Ji Lin University
       year: 2019 - 2023
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
    
 - title: Honors and Awards
   type: time_table
