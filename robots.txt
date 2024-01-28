@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Songyying.github.io/sitemap.xml
+Sitemap: https://songyying.github.io//sitemap.xml
