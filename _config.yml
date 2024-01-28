@@ -16,7 +16,7 @@ footer_text: >
 keywords: student,NJU
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️
+icon: icon.jpg
 url: https://songyying.github.io/
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
