@@ -21,7 +21,7 @@
 - title: Experience
   type: time_table
   contents:
-      institution: Ji Lin University
+    - institution: Ji Lin University
       year: 2019 - 2023
       description:
         - Project of innovation and Entrepreneurship for college students
