@@ -22,21 +22,6 @@ I am Song Yuying.Graduate student in Nan Jing University , majoring in Journa
 During my four years of undergraduate study, I majored in Advertising at Jilin University and hosted a national innovation and entrepreneurship project as the first person in charge. I was interested in semiotics and the field of consumer society during my undergraduate years, and often read the books of Baudrillard. For my postgraduate study, I choose the digital marketing communication direction at Nanjing University, and study the fields of private marketing and interactive marketing under the guidance of my mentor. During my study at Nanjing University, I broaden my horizons and get in touch with computational communication-related content. Although it is initially very difficult, I believe that I will enjoy it.
 
 
-<!-- code for GitHub users -->
-{% if site.data.repositories.github_users %}
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %} {% include repository/repo_user.liquid username=user %} {% endfor %}
-</div>
-{% endif %}
-
-<!-- code for GitHub trophies -->
-{% if site.repo_trophies.enabled %} {% for user in site.data.repositories.github_users %} {% if site.data.repositories.github_users.size > 1 %}
-<h4>{{ user }}</h4>
-{% endif %}
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% include repository/repo_trophies.liquid username=user %}
-</div>
-{% endfor %} {% endif %}
 
 <!-- code for GitHub repositories -->
 {% if site.data.repositories.github_repos %}
