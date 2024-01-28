@@ -11,14 +11,14 @@
       "address": "江苏省南京市栖霞区仙林大道163号",
       "postalCode": "210023",
       "city": "Nan Jing",
-      "countryCode": "CHINASSL",
+      "countryCode": "CN",
       "region": "none"
     },
     "profiles": [
       {
-        "network": "weibo",
-        "username": "guess it",
-        "url": "https://songyying.io"
+        "network": "Wei bo",
+        "username": "为晚风心动_",
+        "url": "https://weibo.com/u/7302882257"
       }
     ]
   },
@@ -45,7 +45,20 @@
       "summary":
     }
   ],
-  "certificates": [],
+  "certificates": [
+    {
+      "name": "Outstanding College students in Jilin province",
+      "date": "2023-02-02",
+      "issuer": "Department of Education of Jilin province",
+      "url": "https://example.com",
+    },
+    {
+      "name": "Public Service Excellence Award",
+      "date": "2023-12-09",
+      "issuer": "NanJing University",
+      "url": "https://example.com",
+    }
+  ],
   "publications": [],
   "skills": [],
   "languages": [
@@ -58,7 +71,16 @@
       "fluency": "Fluent"
     }
   ],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Digital marketing communication",
+      "keywords": [
+        "Private sector marketing",
+        "Integrated Marketing Communications",
+        "Interactive marketing",
+      ]
+    }
+  ],
   "references": [],
   "projects": []
 }
