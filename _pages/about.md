@@ -11,7 +11,6 @@ profile:
   more_info: >
     <p>13074189436</p>
     <p>南京大学仙林校区</p>
-    <p>China</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
