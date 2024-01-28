@@ -27,16 +27,16 @@
         - Project of innovation and Entrepreneurship for college students
         - Advertising art competition for college students
 
-  - title: Volunteer work
+- title: Volunteer work
   type: time_table
   contents:
-      year: 2023
+    - year: 2023
       description:
         - volunteer for welcoming new students in Nan Jing University
-     year: 2022
+    - year: 2022
       description:
         - Anti-epidemic volunteer
-      year: 2022
+    - year: 2022
       description:
         - Volunteer teacher
         
