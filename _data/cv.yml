@@ -14,13 +14,32 @@
     - title: Bachelor of Arts
       institution: Ji Lin University
       year: 2019
+      description:
+        - Major in advertising
+        - Double degree in accounting
 
 - title: Experience
   type: time_table
   contents:
       institution: Ji Lin University
       year: 2019 - 2023
-   
+      description:
+        - Project of innovation and Entrepreneurship for college students
+        - Advertising art competition for college students
+
+  - title: Volunteer work
+  type: time_table
+  contents:
+      year: 2023
+      description:
+        - volunteer for welcoming new students in Nan Jing University
+     year: 2022
+      description:
+        - Anti-epidemic volunteer
+      year: 2022
+      description:
+        - Volunteer teacher
+        
 - title: Honors and Awards
   type: time_table
   contents:
@@ -31,7 +50,14 @@
       items: 
         - Outstanding College students in Jilin province
 
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Private sector marketing.
+      items:
+        - From private to interaction, how does the interaction of private domain cause fission.
+
 - title: Other Interests
   type: list
   contents:
-    - reading books,watching movies,
+    - reading books,watching movies
