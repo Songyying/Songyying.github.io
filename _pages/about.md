@@ -5,8 +5,8 @@ permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: right
-  image: 813014668113468144.jpg
+  align: left
+  image: new.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>85592971</p>
