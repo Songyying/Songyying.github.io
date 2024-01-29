@@ -26,6 +26,6 @@ During my four years of undergraduate study, I majored in Advertising at Jilin U
 <!-- code for GitHub repositories -->
 {% if site.data.repositories.github_repos %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %} {% include repository/repo.liquid repository=repo %} {% endfor %}
+<!--   {% for repo in site.data.repositories.github_repos %} {% include repository/repo.liquid repository=repo %} {% endfor %} -->
 </div>
 {% endif %}
