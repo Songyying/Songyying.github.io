@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: YY's adventures in wonderland # the website title (if blank, full name will be used instead)
+title: Song Yuying (if blank, full name will be used instead)
 first_name: Song
 middle_name: Yu
 last_name: ying
@@ -118,9 +118,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
+blog_name: YY's wonderland # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_description: a simple platform of a student
 permalink: /blog/:year/:title/
 
 # Pagination
