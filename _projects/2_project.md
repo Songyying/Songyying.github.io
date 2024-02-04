@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Python
+title: work
 description: some resources about work
 img: assets/img/9.gif
 importance: 2
