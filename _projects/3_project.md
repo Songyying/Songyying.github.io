@@ -7,3 +7,4 @@ importance: 3
 category: movie
 giscus_comments: true
 ---
+豆友的电影主页【链接：https://movie.douban.com/mine】
